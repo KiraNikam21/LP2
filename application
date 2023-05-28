@@ -1,0 +1,40 @@
+/* 
+ * login salsforce
+ * object manager -> new object
+ 	lable_name
+	object_name
+	description
+	allow search (tick)
+ *save
+ *friends & relationship 
+  new ->text -> next
+    field_lable
+	length
+	field_name
+	description
+	required (tick)
+ next->next->save
+ new->number
+   field_lable
+	length
+	field_name
+	description
+	required (tick)->next->next->save
+
+home
+search->app manager->new lighting app
+next->next->add utility item->rich text (write something)
+			add utility item->recent item->next
+opprtunity-> => ->next->system admistrator-> => -> sane & finish
+::search (app name) ->setup ->object manager(app name) ->edit
+
+search->tab->custom object tab ->object : tab style ->next
+setup->lightinig app builder->navigation item
+new->create new lightinig page->finish
+	reach text
+	recent item
+	report chart
+save->navigation item->lighting page name => -> save ->search->app name: 
+
+*/
+
