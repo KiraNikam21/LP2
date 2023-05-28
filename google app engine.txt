@@ -1,0 +1,28 @@
+‌first install python 2.7 on ubantu
+‌then type command in terminal gcloud initcurl Sdk.google.com
+‌google cloud installation has benn done (welcome to Google cloud)
+‌gcloud init
+‌ option available
+‌select create new configuration
+‌then create account on Google cloud
+‌create a project
+‌then login with our account
+‌select project
+‌python Hello world program chi link paste Keli 
+‌web browser var localhost 8080
+‌print hello world 🌎
+
+
+gcloud initcurl https://sdk.cloud.google.com | bash
+
+curl https://sdk.cloud.google.com | bash
+
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples
+
+gcloud init
+
+cd python-docs-samples/appengine/standard/hello_world
+
+dev_appserver.py app.yml
